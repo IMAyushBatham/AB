@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  background-color: #A1E3D8;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 30%;
+  border-color: #417D7A;
+  background-color: #A1E3D8;
+  border-width: 5px;
+}
+
+.first_container {
+  display: inline-block;
+  background-color: #417D7A;
+  text-align: center;
+  height: 350px;
+  width: 100%;
+}
+
+.profile_pic {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: 0;
+  height: 300px;
+  width: 300px;
+  float: right;
+}
+
+.H1-index {
+  font-family: 'Sacramento', cursive;
+  color: #A1E3D8;
+  position: relative;
+  left: 70px;
+}
+
+.p-index {
+  font-family: 'Montserrat', sans-serif;
+  color: #A1E3D8;
+  position: relative;
+  left: 70px;
+}
+
+.second_container {
+  display: inline-block;
+  position: absolute;
+}
+
+.instagram {
+  height: 50px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.spotify {
+  height: 50px;
+  position: absolute;
+  top: 55px;
+  right: 0;
+}
+
+.youtube {
+  height: 50px;
+  position: absolute;
+  top: 100px;
+  right: 0;
+}
+
+.third_container {
+  background-color: #066163;
+  position: absolute;
+  height: 250px;
+  width: 100%;
+  right: 0;
+}
+
+.chef {
+  height: 200px;
+  float: right;
+  top: 0;
+  right: 0;
+}
+
+.p-chef {
+  font-family: 'Montserrat', sans-serif;
+  color: #A1E3D8;
+  text-align: center;
+}
+
+.H1-chef {
+  font-family: 'Sacramento', cursive;
+  color: #A1E3D8;
+  text-align: center;
+}
+
+.p-list {
+  font-family: 'Montserrat', sans-serif;
+  color: #A1E3D8;
+  text-align: center;
+  text-align-last: center;
+  line-height: 30px;
+}
+
+/*
+.anime_pic{
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+*/
